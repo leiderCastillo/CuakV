@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ReameUtils/CUACKOS.png" height="300">
+  <img src="./ReadmeUtils/CUACKOS.png" height="300">
 </p>
 
 <p align="center">
