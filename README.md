@@ -12,7 +12,7 @@ Acciones actuales 🥵:
 <table>
   <tr>
     <td>
-      <img src="./ReadmeUtils/pato.gif" width="30%">
+      <img src="./ReadmeUtils/pato.gif" width="100">
       <td>
       <ul>
         <li>Auto inicio de Goose Desktop</li>
@@ -33,7 +33,7 @@ Acciones Pendientes 😱:
 <table>
   <tr>
     <td>
-      <img src="./ReadmeUtils/pato-ejercicio.gif" width="30%">
+      <img src="./ReadmeUtils/pato-ejercicio.gif" width="100">
       <td>
       <ul>
         <li>Una opción para seleccionar el tipo de daño en el sistema</li>
