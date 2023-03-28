@@ -39,10 +39,11 @@ set ubicacionStart="%userUb%\AppData\Roaming\Microsoft\Windows\Start Menu\Progra
 mkdir %userUb%\Goose
 xcopy %miUb%\assets\Goose %userUb%\Goose  /s /y
 copy %miUb%\assets\inicioAutomatico.bat %ubicacionStart%
+copy %miUb%\assets\crearHuevo.bat %userUb%\Memes /s /y
 exit /b
 :memes
-mkdir %userUb%\Memes
-xcopy %miUb%\assets\Memes %userUb%\Memes  /s /y
+mkdir %userUb%\adds
+xcopy %miUb%\assets\adds %userUb%\adds  /s /y
 exit /b
 :crearCarpetas
 cd %userUb%\Desktop
