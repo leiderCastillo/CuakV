@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <strong>Un virus de paaatooooss 🦆</strong>
+ <strong>!Un virus de paaatooooss 🦆¡</strong>
 </p>
 
 La creación de un virus controlado llamado **CuackV**. Este virus ha sido diseñado para mostrar cómo funciona un virus y las distintas acciones que puede realizar, sin afectar la integridad del sistema principal. **CuackV** cuenta con diferentes modos y acciones que pueden causar ciertas molestias al usuario, pero no daña los archivos del sistema. **Este proyecto busca fomentar la conciencia y la prevención contra los virus informáticos.**
