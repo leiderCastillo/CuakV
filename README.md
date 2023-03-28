@@ -1,4 +1,10 @@
 # CuakV
+
+<p align="center" width="300">
+   <h3 align="center">CuackV 🦆</h3>
+   <h2 align="center">Bienvenido al repositorio de CuackOs, encuentra un virus de patos</h2>
+</p>
+
 Este ejercicio consiste en generar un software, para demostrar el funcionamiento de un virus sencillo.
 
 Acciones actuales:
