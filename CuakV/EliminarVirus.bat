@@ -6,7 +6,7 @@ set user=%USERNAME%
 set ubicacionStart="%userUb%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 del /q /f %ubicacionStart%\inicioAutomatico.bat
-rmdir /s /q %userUb%\assets
+rmdir /s /q %userUb%\adds
 cd %userUb%\Desktop
 del /q /f HuevoCuak.*
 rmdir /s /q Patanela
