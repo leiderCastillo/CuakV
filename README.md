@@ -8,7 +8,7 @@
 
 La creación de un virus controlado llamado **CuackV**. Este virus ha sido diseñado para mostrar cómo funciona un virus y las distintas acciones que puede realizar, sin afectar la integridad del sistema principal. **CuackV** cuenta con diferentes modos y acciones que pueden causar ciertas molestias al usuario, pero no daña los archivos del sistema. **Este proyecto busca fomentar la conciencia y la prevención contra los virus informáticos.**
 
-Acciones actuales 🥵
+**Acciones actuales 🥵**
 <table>
   <tr>
     <td>
@@ -21,6 +21,7 @@ Acciones actuales 🥵
         <li>Generar archivos con un peso aleatorio en el escritorio</li>
         <li>Agregar carpetas vacias con nombres sobre patos</li>
         <li>Memes de inicio sobre patos </li>
+        <li>Esconder escritorio durante un tiempo</li>
        <ul>
        </td>
      </td>
@@ -36,10 +37,10 @@ Acciones actuales 🥵
       <img src="./ReadmeUtils/pato-ejercicio.gif" width="100">
       <td>
       <ul>
-        <li>🙄 <strong>Nircmd:</strong>  Herramienta de línea de comandos para automatizar tareas en Windows.</li> 
-        <li>🙄 <strong>Goose Desktop:</strong>  Entorno de escritorio minimalista basado en web para trabajar con múltiples pestañas.</li> 
-        <li>🙄 <strong>Batch:</strong>  Lenguaje de script para automatizar tareas en Windows mediante archivos por lotes.</li> 
-        <li>🙄 <strong>VBScript:</strong> Lenguaje de scripting para automatizar tareas en Windows y crear aplicaciones web en ASP clásico.</li> 
+        <li><strong>Nircmd:</strong>  Herramienta de línea de comandos para automatizar tareas en Windows.</li> 
+        <li><strong>Goose Desktop:</strong>  Entorno de escritorio minimalista basado en web para trabajar con múltiples pestañas.</li> 
+        <li><strong>Batch:</strong>  Lenguaje de script para automatizar tareas en Windows mediante archivos por lotes.</li> 
+        <li><strong>VBScript:</strong> Lenguaje de scripting para automatizar tareas en Windows y crear aplicaciones web en ASP clásico.</li> 
        <ul>
        </td>
      </td>
