@@ -46,6 +46,9 @@ La creación de un virus controlado llamado **CuackV**. Este virus ha sido dise�
      </td>
     </tr>
    </table>
+   
+**Descarga**
+Descarga el archivo .zip desde ![Aquí](https://github.com/leiderCastillo/CuakV/raw/master/CuakV.zip)
 
 <p align="center">
   <img src="./ReadmeUtils/patocorre.gif" height="300">
