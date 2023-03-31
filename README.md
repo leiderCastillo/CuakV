@@ -36,11 +36,10 @@ Acciones actuales 🥵
       <img src="./ReadmeUtils/pato-ejercicio.gif" width="100">
       <td>
       <ul>
-        <li>🙄 Nircmd: Herramienta de línea de comandos para automatizar tareas en Windows.</li> 
-        <li>🙄 Goose Desktop: Entorno de escritorio minimalista basado en web para trabajar con múltiples pestañas.</li> 
-        <li>🙄 Batch: Lenguaje de script para automatizar tareas en Windows mediante archivos por lotes.</li> 
-        <li>🙄 Goose Desktop: Entorno de escritorio minimalista basado en web para trabajar con múltiples pestañas.</li> 
-        <li>🙄 VBScript: Lenguaje de scripting para automatizar tareas en Windows y crear aplicaciones web en ASP clásico.</li> 
+        <li>🙄 <strong>Nircmd:</strong>  Herramienta de línea de comandos para automatizar tareas en Windows.</li> 
+        <li>🙄 <strong>Goose Desktop:</strong>  Entorno de escritorio minimalista basado en web para trabajar con múltiples pestañas.</li> 
+        <li>🙄 <strong>Batch:</strong>  Lenguaje de script para automatizar tareas en Windows mediante archivos por lotes.</li> 
+        <li>🙄 <strong>VBScript:</strong> Lenguaje de scripting para automatizar tareas en Windows y crear aplicaciones web en ASP clásico.</li> 
        <ul>
        </td>
      </td>
